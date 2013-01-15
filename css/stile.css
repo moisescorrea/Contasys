@@ -1,0 +1,31 @@
+<style type="text/css">
+p{
+   border: 1px solid #999;
+   padding: 5px;
+   margin: 0px;
+}
+#cuenta{
+   background-color: #ffcccc;
+}
+#buscador{
+   background-color: #ccffcc;
+}
+#logo{
+   background-color: #e0e0ff;
+}
+#categoria{
+   background-color: #ccccff;
+}
+#contenido{
+   background-color: #9999ff;
+}
+#izq3{
+   background-color: #6666ff;
+}
+#der{
+   background-color: #dedede;
+}
+#footer{
+   background-color: #ff8800;
+}
+</style>
